@@ -31,8 +31,6 @@ class GroundVehicle(Vehicle):
         self.num_wheels = num_wheels
         self.doors = doors
 
-motorcycle = GroundVehicle
-
 print(car)
 
     
